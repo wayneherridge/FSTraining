@@ -1,11 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
 body {
-    background: darkgrey;
+    background: lightsteelblue;
     width: 100%;
     max-width: 90%;
     margin: 0 auto;
 }
 
 h1 {
+    font-size: 3em;
+    font-family: 'Kalam', cursive;
     text-align: center;
     text-shadow: 4px 4px 6px white;
   }
@@ -15,5 +19,6 @@ h1 {
 }
 
 footer {
+    padding: 10px;
     text-align: center;
   }
